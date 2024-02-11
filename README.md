@@ -19,6 +19,7 @@ Grassinternet.Inc [2022 - 2024] Easy.Inc [2023 - 2024] Srz Studio [2023]
 1.waring_window(title,message to print,button kind)
 Create a window that has output area and click button use to waring or issue something
 Finally like : 
+
 [-------------------------]
           Example
 
@@ -31,6 +32,7 @@ Finally like :
 2.application_window(length of window,hight of window,title,message to print)
 Create a window like waring window but bigger than it
 Finally like : 
+
 #----------------------------------------------------------------------------------------------------------------------#                                                        Example                                                         
  Only example!!! :P
 
@@ -42,6 +44,7 @@ Support the dynamic update , when the user maximize the window , it shows the up
 4.rect_drawer(length,hight)
 Draw a rectangle in the given size
 Finally like:
+
 * * * * * *
 *        *
 * * * * * *
