@@ -6,9 +6,10 @@ Since EasyOS 3.0, we have developed CoffieAPI, which is available to all develop
 
 # About Support
 Updates about EasyAPI don't come very often, they are updated in almost every EasyOS update, which we currently support:
+
 1. EO_Update with EasyOS update
-2.Monthly updates
-3.debug level updates (recommended that developers use)
+2. Monthly updates
+3. debug level updates (recommended that developers use)
 
 # Devlopers
 Grassinternet.Inc [2022 - 2024] Easy.Inc [2023 - 2024] Srz Studio [2023]
